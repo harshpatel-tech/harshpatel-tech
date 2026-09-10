@@ -172,6 +172,9 @@ Every repository represents something I built, experimented with, or learned alo
 If you're interested in **AI, robotics, space-tech, neuroscience, VR, or just building cool things**, I'd be happy to connect and collaborate.
 
 **GitHub:** [@harshpatel-tech](https://github.com/harshpatel-tech)
+**LinkedIn:** [Harsh Patel](https://www.linkedin.com/in/harsh-patel-882a40373)
+**ORCID:** [Harsh Patel](https://orcid.org/0009-0009-4481-929X)
+
 
 ---
 
